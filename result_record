@@ -1,0 +1,41 @@
+miracle
+ {
+    Test ROC score: 0.98325
+    Test AP score: 0.97542
+    Test F1 score: 0.91524
+    Test ACC score: 0.96000
+}
+
+
+MDL{
+Test ROC score: 0.99307
+Test AP score: 0.99275
+Test F1 score: 0.96724
+Test ACC score: 0.96726
+}
+
+
+
+ChChMiner{
+Test ROC score: 0.99747
+Test AP score: 0.99968
+Test F1 score: 0.99300
+Test ACC score: 0.98768
+}
+
+DeepDDI{
+Test ROC score: 0.98752
+Test AP score: 0.99285
+Test F1 score: 0.98632
+Test ACC score: 0.97934
+}
+
+zhang{
+Test ROC score: 0.99837
+Test AP score: 0.99553
+Test F1 score: 0.96666
+Test ACC score: 0.98478
+}
+
+
+
