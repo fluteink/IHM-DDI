@@ -1,0 +1,7 @@
+pandas~=2.2.2
+numpy~=1.26.4
+scipy~=1.13.1
+scikit-learn~=1.5.1
+matplotlib~=3.9.2
+rdkit
+#torch~=2.5.1+cu124
