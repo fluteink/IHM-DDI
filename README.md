@@ -1,8 +1,8 @@
 English | [中文](README_zh.md)
 
-# LGS-DDI
+# IHM-DDI
 
-The implementation of "**LGS-DDI: Local-Global Synergy for Drug-Drug Interaction Prediction**"
+The implementation of "**IHM-DDI: Integrating high-order interaction topology and Morgan fingerprint features for drug-drug interaction prediction**"
 
 ## Requirements
 ```bash
