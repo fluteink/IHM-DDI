@@ -1,6 +1,6 @@
 [English](README.md) | 中文
-# LGS-DDI
-"**LGS-DDI: 局部-全局协同的药物相互作用预测方法**"
+# IHM-DDI
+"**IHM-DDI: Integrating high-order interaction topology and Morgan fingerprint features for drug-drug interaction prediction**"
 
 ## 环境依赖
 ```
